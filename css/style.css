@@ -25,7 +25,7 @@ a {
 }
 
 h1 {
-	font-size: 22px;
+	font-size: 28px;
 	font-weight: 700;
 	margin: 0 0 8px 0;
 	padding: 0;
@@ -34,7 +34,7 @@ h1 {
 }
 
 h2 {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 600;
 	color: #787878;
 	line-height: 20px;
@@ -116,7 +116,7 @@ p.cap {
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
-	
+	border: 1px solid rgba(230,230,230,1);
 }
 
 .card-inner {
