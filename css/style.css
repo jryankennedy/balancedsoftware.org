@@ -423,7 +423,14 @@ input.form-control::placeholder {
 	}
 }
 
+.email-link {
+	text-decoration: underline;
+	color: rgb(0, 44, 169);
+}
 
+.font-18 {
+	font-size: 18px;
+}
 
 
 
