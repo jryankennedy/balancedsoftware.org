@@ -164,8 +164,8 @@ p.card-desc {
   transform: scale(1, 1) translateY(0) rotate(180deg);
 }
 
-.receipt-cat {
-	background-image: url(https://www.jordankennedy.com/assets/rc.png)
+.trivia-party {
+	background-image: url(../assets/tp.png)
 }
 
 .indie-app-makers {
