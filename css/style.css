@@ -13,7 +13,7 @@ a {
 }
 
 .container {
-	max-width: 680px;
+	max-width: 600px;
 	margin: 0 auto;
 	padding-left: 20px;
 	padding-right: 20px
@@ -183,6 +183,11 @@ p.card-desc {
 .balance-pro {
 	background-image: url("../assets/bp.png");
 }
+
+.limelight {
+	background-image: url("../assets/limelight.png");
+}
+
 
 .hypelynk {
 	background-image: url("../assets/hypelynk.png");
